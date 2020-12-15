@@ -50,7 +50,7 @@ I'm a *developer*, and I love to exploit vulnerabilities in web applications (ev
 
 ---
 
-![NFavareto github stats](https://github-readme-stats.vercel.app/api?username=nfavareto&theme=highcontrast&show_icons=true&line_height=40)
+[![NFavareto github stats](https://github-readme-stats.vercel.app/api?username=nfavareto&theme=highcontrast&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://www.linkedin.com/in/nataliafavareto/">
