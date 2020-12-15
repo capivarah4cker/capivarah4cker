@@ -13,7 +13,7 @@ I'm a *developer*, and I love to exploit vulnerabilities in web applications (ev
 
 - :computer: I’m currently working on [*RD Station*](https://github.com/ResultadosDigitais)
 - :notebook: I’m currently learning about [*Security Engineer*](https://tryhackme.com/)
-- :eyes: I’m looking for help with ***Offensive Security***
+- :eyes: I´m looking for help and helping with ***Offensive Security***
 - :point_up: Ask me about ***anything***, we will learn together
 - :onion: Fun fact: I hate onions, or almost all of them
 
