@@ -21,34 +21,32 @@ I'm a *developer*, but I love to exploit vulnerabilities in web applications (ev
 ---
 **Languages:**
 
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/bash.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/c.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/c++.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/java.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/csharp.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/js.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/ruby.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/golang.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/webvr.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/3js.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/aframe.png"/>
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/docker.png"/>
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/bash.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/c.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/c++.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/java.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/csharp.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/js.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/ruby.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/golang.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/webvr.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/3js.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/aframe.png"/>
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/language/docker.png"/>
 
-<br /> 
 
----
 **Toolkit:**
 
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/git.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/github.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/sublime.png" />
-<img align="left" alt="" width="40px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/vscode.png" />
-<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/security/burpsuite.png" />
-<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/security/nmap.png" />
-<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/security/owasp.png" />
-<img align="left" alt="" width="60px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/security/wireshark.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/git.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/github.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/sublime.png" />
+<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/vscode.png" />
+<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/security/burpsuite.png" />
+<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/security/nmap.png" />
+<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/security/owasp.png" />
+<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/security/wireshark.png" />
 
-<br /> <br /> 
+---
 
 ![NFavareto github stats](https://github-readme-stats.vercel.app/api?username=nfavareto&theme=highcontrast&show_icons=true&line_height=40)
 
