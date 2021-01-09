@@ -9,7 +9,7 @@ _According to my grandmother_
 **ABOUT ME** <br>
 I'm a *developer*, and I love to exploit vulnerabilities in web applications (everything is done according to the law - *I swear*). I graduated in Computer Science, but I never wear a lab coat :trollface: <br>
 
-<img align ="right" alt="GIF" src="https://media.giphy.com/media/28IVbVe3oQpCBXF37f/giphy.gif" width="300px" /> 
+<img align ="right" alt="GIF" src="https://media.giphy.com/media/uWcNWtfqzySDYqkORw/giphy.gif" width="300px" /> 
 
 - :computer: I’m currently working on [*RD Station*](https://github.com/ResultadosDigitais)
 - :notebook: I’m currently learning about [*Security Engineer*](https://tryhackme.com/)
