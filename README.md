@@ -37,7 +37,6 @@ I'm a *developer*, and I love to exploit vulnerabilities in web applications (ev
 
 **Toolkit:**
 
-<img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/git.png" />
 <img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/sublime.png" />
 <img align="left" alt="" width="30px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/tools/vscode.png" />
 <img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/NFavareto/static-icons/master/security/burpsuite.png" />
