@@ -17,6 +17,12 @@ I'm a *developer*, and I love to exploit vulnerabilities in web applications (ev
 - :point_up: Ask me about ***anything***, we will learn together
 - :onion: Fun fact: I hate onions, or almost all of them
 
+
+<a href="https://www.linkedin.com/in/nataliafavareto/">
+    <img src="https://img.shields.io/badge/Natalia-Favareto?style=for-the-badge&logo=linkedin&color=blue" href="" width="80px">
+</a> 
+
+
 ---
 **Languages:**
 
@@ -49,8 +55,3 @@ I'm a *developer*, and I love to exploit vulnerabilities in web applications (ev
 ---
 
 [![NFavareto github stats](https://github-readme-stats.vercel.app/api?username=nfavareto&theme=highcontrast&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://www.linkedin.com/in/nataliafavareto/">
-    <img src="https://img.shields.io/badge/Natalia-Favareto?style=for-the-badge&logo=linkedin&color=blue" href="" width="80px">
-</a> 
