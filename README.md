@@ -9,8 +9,7 @@ _According to my grandmother_
 
 <img align ="right" alt="GIF" src="https://media.giphy.com/media/uWcNWtfqzySDYqkORw/giphy.gif" width="290px" /> 
 
-- :computer: I’m currently working on **RD Station** as a Cyber Security Engineer  
-- :eyes: I´m looking for help and helping with ***DevSecOps*** (Green Team)
+- :eyes: I´m looking for help and helping with ***AppSec*** (Green Team)
 - :point_up: Ask me about ***anything***, we will learn together
 - :onion: Fun fact: I hate onions, or almost all of them
 
