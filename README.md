@@ -4,7 +4,6 @@
 
 _According to my grandmother_ 
 
-> ### _"Se quer falar sobre segurança da informação é comigo mesmo, uai?! - Appsec/Devsecops"_
 
 
 <img align ="right" alt="GIF" src="https://media.giphy.com/media/uWcNWtfqzySDYqkORw/giphy.gif" width="290px" /> 
