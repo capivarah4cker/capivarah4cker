@@ -5,16 +5,8 @@
 _According to my grandmother_ 
 
 
+🚧 Under Construction 🚧
 
-<img align ="right" alt="GIF" src="https://media.giphy.com/media/uWcNWtfqzySDYqkORw/giphy.gif" width="290px" /> 
-
-- :eyes: I´m looking for help and helping with ***AppSec*** (Green Team)
-- :point_up: Ask me about ***anything***, we will learn together
-- :onion: Fun fact: I hate onions, or almost all of them
-
-
-<a href="https://www.linkedin.com/in/nataliafavareto/">
-    <img src="https://img.shields.io/badge/Natalia-Favareto?style=for-the-badge&logo=linkedin&color=blue" href="" width="80px">
-</a> 
+<img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RwMjAweGJoYXoxdG80MjB2cmh2bXVwb2J1djd2dTl0cDk5dHhibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fVeAI9dyD5ssIFyOyM/giphy.gif" /> 
 
 ---
